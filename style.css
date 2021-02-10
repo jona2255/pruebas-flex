@@ -29,3 +29,7 @@ body {
 .content-section .elementos:nth-of-type(5) {
   background-color: #0bb;
 }
+
+.content-section .elementos:hover {
+  transform: rotate(180deg);
+}
